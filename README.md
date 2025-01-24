@@ -4,14 +4,14 @@ A decentralized prediction market platform built on blockchain technology, allow
 
 ## Features
 
-## Features
+- **Variety of Prediction Markets:** Provides a variety of prediction markets where users can place their bets on real-world events, ranging from sports to financial trends.  
+- **Decentralized and Trustless Environment:** Provides a fully decentralized, trustless environment where all trades and outcomes are verified on the blockchain.  
+- **Oracle Integration:** Reliable event outcomes are ensured with blockchain oracles, providing accurate and tamper-proof external data.  
+- **Chainlink Keepers:** Automated and secure smart contract operations powered by Chainlink Keepers ensure timely market resolution without manual intervention.  
+- **Portfolio Management:** Monitor and manage your active positions with detailed insights into your market activity and potential gains.  
+- **Complete Trading History:** Access your complete trading history to track past activities and evaluate your performance.  
 
-- **Decentralized Prediction Markets:** Empower users to create and participate in transparent, tamper-proof prediction markets for various real-world events.  
-- **Secure and Trustless Environment:** Built on blockchain technology to ensure all transactions and market outcomes are fully verifiable and immutable.  
-- **META Token Integration:** Utilize META, the native platform token, for trading, market creation, and resolution. Includes an in-built faucet for easy token access.  
-- **Automated Market Making (AMM):** Leverage smart contract-based mechanisms to create, manage, and resolve markets seamlessly, ensuring fairness and reliability.  
-- **Portfolio Management:** Track, analyze, and manage your active positions across multiple markets with detailed insights.  
-- **Comprehensive Trading History:** Access a complete record of your past transactions, ensuring transparency and accountability.  
+
 
 
 ## Technologies Used
