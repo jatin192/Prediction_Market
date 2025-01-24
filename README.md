@@ -4,14 +4,15 @@ A decentralized prediction market platform built on blockchain technology, allow
 
 ## Features
 
-- **Decentralized Prediction Markets:** Create and participate in prediction markets for various events
-- **META Token Integration:** Native platform token with faucet functionality
-- **Automated Market Making:** Smart contract-based market creation and resolution
-- **User-Friendly Interface:** Modern React-based frontend with real-time updates
-- **Wallet Integration:** Seamless connection with Web3 wallets
-- **Position Management:** Track and manage your market positions
-- **Order History:** View your complete trading history
-- **Market Analytics:** Real-time market statistics and trends
+## Features
+
+- **Decentralized Prediction Markets:** Empower users to create and participate in transparent, tamper-proof prediction markets for various real-world events.  
+- **Secure and Trustless Environment:** Built on blockchain technology to ensure all transactions and market outcomes are fully verifiable and immutable.  
+- **META Token Integration:** Utilize META, the native platform token, for trading, market creation, and resolution. Includes an in-built faucet for easy token access.  
+- **Automated Market Making (AMM):** Leverage smart contract-based mechanisms to create, manage, and resolve markets seamlessly, ensuring fairness and reliability.  
+- **Portfolio Management:** Track, analyze, and manage your active positions across multiple markets with detailed insights.  
+- **Comprehensive Trading History:** Access a complete record of your past transactions, ensuring transparency and accountability.  
+
 
 ## Technologies Used
 
